@@ -1,5 +1,10 @@
 
 /******** Navbar ********/
+
+.navbar .container {
+  margin: 0;
+}
+
 .navbar {
   background-color: #f58d42;
 }
