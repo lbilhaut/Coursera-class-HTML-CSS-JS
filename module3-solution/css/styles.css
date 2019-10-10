@@ -1,0 +1,39 @@
+
+/******** Navbar ********/
+.navbar {
+  background-color: #f58d42;
+}
+
+.navbar-default .navbar-brand {
+  color: black;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.container .navbar-default {
+  background-color: #f58d42;
+}
+
+#nav-list{
+  background-color: #ffcaa3;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+/******** End navbar ********/
+
+/******** Main Content ********/
+
+#main-content{
+  background-color: #fff5ed;
+  margin: 0 20px 20px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+#main-content p {
+  padding: 0 20px 0;
+}
+
+/******** End Main Content ********/
